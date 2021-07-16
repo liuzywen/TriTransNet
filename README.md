@@ -1,6 +1,6 @@
 # TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network
 
-by Zhengyi Liu, details are in [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300904)
+by Zhengyi Liu, details are in [paper](https://doi.org/10.1145/3474085.3475601)
 
 ## Code
 
@@ -15,13 +15,10 @@ coming soon...
 If you find the information useful, please consider citing:
 
 ```
-@article{liu2020cross,
+@article{liu2021TriTrans,
   title={ TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network},
   author={Liu, Zhengyi and Yuan, Wang},
   journal={ACM MM},
-  volume={387},
-  pages={210--220},
-  year={2021},
-  publisher={Elsevier}
+  year={2021}
 }
 ```
