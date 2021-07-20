@@ -17,8 +17,8 @@ If you find the information useful, please consider citing:
 ```
 @article{liu2021TriTrans,
   title={ TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network},
-  author={Liu, Zhengyi and Yuan, Wang},
-  journal={ACM MM},
+  author={Liu, Zhengyi and Yuan, Wang and Zhengzheng Tu and Yun Xiao and Bin Tang},
+  journal={ACM MM21},
   year={2021}
 }
 ```
