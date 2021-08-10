@@ -1,6 +1,7 @@
 # TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network
 
-by Zhengyi Liu, details are in [paper](https://doi.org/10.1145/3474085.3475601)
+by Zhengyi Liu, details are in [paper](http://arxiv.org/abs/2108.03990
+)[official](https://doi.org/10.1145/3474085.3475601)
 
 ## Code
 
