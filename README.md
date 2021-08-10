@@ -1,6 +1,6 @@
 # TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network
 The paper has been accepted by ACM MM2021.
-by Zhengyi Liu, details are in [paper](http://arxiv.org/abs/2108.03990)
+The details are in [paper](http://arxiv.org/abs/2108.03990)
 [official](https://doi.org/10.1145/3474085.3475601)
 
 ## Code
@@ -19,7 +19,7 @@ If you find the information useful, please consider citing:
 
 ```
 @article{liu2021TriTrans,
-  title={ TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network},
+  title={ TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network},
   author={Liu, Zhengyi and Yuan, Wang and Zhengzheng Tu and Yun Xiao and Bin Tang},
   journal={ACM MM21},
   year={2021}
