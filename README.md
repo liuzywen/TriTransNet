@@ -27,10 +27,11 @@ https://drive.google.com/file/d/1Ne4Xx63bHbt2IjpFE4fe2NX917cf9qzQ/view?usp=shari
 If you find the information useful, please consider citing:
 
 ```
-@article{liu2021TriTrans,
-  title={ TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network},
-  author={Liu, Zhengyi and Yuan, Wang and Zhengzheng Tu and Yun Xiao and Bin Tang},
-  journal={ACM MM21},
+@inproceedings{liu2021tritransnet,
+  title={TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network},
+  author={Liu, Zhengyi and Wang, Yuan and Tu, Zhengzheng and Xiao, Yun and Tang, Bin},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={4481--4490},
   year={2021}
 }
 ```
