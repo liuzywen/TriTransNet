@@ -26,6 +26,10 @@ https://drive.google.com/file/d/1mYjaT_FTlY4atd-c0WdQ-0beZIpf8fgh/view?usp=shari
 
 
 ## Testing Set
+链接：https://pan.baidu.com/s/1fN-AsBiKTbMRsye0Lr8K7g 
+提取码：l2u9 
+
+google
 https://drive.google.com/file/d/1dQWrhO-LHVACDKCTrvdc6eIbcyH7Yzp_/view?usp=sharing
 
 
