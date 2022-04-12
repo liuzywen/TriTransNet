@@ -1,4 +1,4 @@
-# TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network
+# TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network
 The paper has been accepted by ACM MM2021.
 The details are in [paper](http://arxiv.org/abs/2108.03990)
 [official](https://doi.org/10.1145/3474085.3475601)
