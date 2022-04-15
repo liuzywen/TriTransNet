@@ -12,7 +12,7 @@ The details are in [paper](http://arxiv.org/abs/2108.03990)
 google 
 https://drive.google.com/file/d/1mqjrOsUX_k9oQtfrluMkGORtBwiPsUyG/view?usp=sharing
 
-## Pretraing Parameters
+## Pretraining Parameters
 链接：https://pan.baidu.com/s/1HMdu_2w1VcMlizjA3HOjLw 
 提取码：8f7t 
 
