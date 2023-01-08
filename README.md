@@ -3,6 +3,8 @@ The paper has been accepted by ACM MM2021.
 The details are in [paper](http://arxiv.org/abs/2108.03990)
 [official](https://doi.org/10.1145/3474085.3475601)
 
+![TriTransNet](images/main.png)
+
 ## Code
 
 链接：https://pan.baidu.com/s/1veASJR08IqR3Q4tMMa6kFA 
